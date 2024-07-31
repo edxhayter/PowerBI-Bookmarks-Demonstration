@@ -15,4 +15,4 @@ This Project contains the materials produced in the half week assigned to genera
 ## Authors
 
 - [@edxhayter](https://www.github.com/edxhayter)
--
+- [@kaizenstephen](https://www.github.com/kaizenstephen)
