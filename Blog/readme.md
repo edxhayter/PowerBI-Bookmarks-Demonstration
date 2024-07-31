@@ -66,8 +66,6 @@ This guide will walk you through the process of creating a chart swap toggle in 
 
 With the infrastructure in place, you can now focus on the functionality of your chart toggle. Using these steps, you can easily configure a seamless chart swapping experience in Power BI.
 
-**Note:** Add your images in the appropriate sections to provide visual guidance.
-
 ---
 
 ## Detailed Steps for Configuration

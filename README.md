@@ -4,7 +4,7 @@ This Project contains the materials produced in the half week assigned to genera
 
 ## Contents
 
-- [20 Minute Teaching Session Catchup Slides]('Presentation Slides') (Slides with added detail for those who missed the session)
+- [20 Minute Teaching Session Catchup Slides](Presentation_Slides) (Slides with added detail for those who missed the session)
 
 - [Tic-Tac-Tableau](tic_tac_toe) (a demonstration of cycling through bookmark buttons and applying bookmarks to selected visuals)
 
