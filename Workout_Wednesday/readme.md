@@ -22,8 +22,8 @@ Welcome to the Power BI Toggle Button Challenge! This README will guide you thro
 To start the challenge, you'll need Power BI Desktop installed on your machine. Follow these steps to get started:
 
 1. **Download the .pbix Files**:
-   - Click [here]('Toggle Button Bookmark Starter.pbix') to download the Starter Challenge Power BI file.
-   - Click [here]('Toggle Button Bookmark Challenge.pbix') to download the Solution Power BI file.
+   - Click [here](Toggle_Button_Bookmark_Starter.pbix) to download the Starter Challenge Power BI file.
+   - Click [here](Toggle_Button_Bookmark_Solution.pbix') to download the Solution Power BI file.
 2. **Open the .pbix Files**: Launch Power BI Desktop and open the downloaded `.pbix` files.
 3. **Begin the Challenge**: Use the Starter Sheet, which contains all the components required for the final report, to complete the challenge.
 

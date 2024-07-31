@@ -4,7 +4,7 @@ Welcome to the Teaching Slides directory. This folder contains a PDF file of our
 
 ## Overview
 
-- **File**: [Teaching Slides.pdf]('PowerBI Bookmarks Slides.pdf')
+- **File**: [Teaching Slides.pdf](PowerBI_Bookmarks_Slides.pdf)
 
 ## How to Use
 
