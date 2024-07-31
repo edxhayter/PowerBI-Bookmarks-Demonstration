@@ -10,7 +10,7 @@ The Tic-Tac-Tableau dashboard is an interactive visualization created using Powe
 - **Conditional Button Display**: Buttons are layered and displayed conditionally to create a dynamic 'cycle' effect, enhancing the user experience.
 - **Shapes and Images**: Bookmark actions are applied to shapes and images, allowing for creative and interactive elements within the dashboard.
 
-## Screenshot
+## Screenshots
 
 ![alt text](image.png)
 
@@ -56,7 +56,5 @@ Thank you for using the Tic-Tac-Tableau dashboard. We hope you find it useful an
 Stephen and I came up with the idea to demo bookmarks this way ourselves but FreshBI had produced it [first](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Tic-Tac-Toe-with-Power-BI/m-p/338628).
 
 We also want to thank Finn Charlton for the wonderfully creative name
-
-Happy analyzing!
 
 ---
